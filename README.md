@@ -10,6 +10,6 @@ I'm also familiar with Bash and shell scripting, Tcl, GW-BASIC, QBASIC, DOS prog
 Much experience managing and publishing projects.
 You could probably benefit from my help.
 
-I spend my free time retrograming, music-listening, activism-engaging, and entrepeneur-planning.
+I spend my free time retrograming, music-listening, activism-engaging, and entrepreneur-planning.
 
 This is W R "Ron" Spain, Jr.
