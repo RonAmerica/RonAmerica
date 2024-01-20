@@ -13,3 +13,5 @@ You could probably benefit from my help.
 I spend my free time retrograming, music-listening, activism-engaging, and entrepreneur-planning.
 
 This is W R "Ron" Spain, Jr.
+
+Microsoft is evil.
