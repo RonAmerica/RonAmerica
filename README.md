@@ -12,6 +12,8 @@ You could probably benefit from my help.
 
 I spend my free time retrograming, music-listening, activism-engaging, and entrepreneur-planning.
 
-This is W R "Ron" Spain, Jr.
+Microsoft is evil, and these projects are not benefitting in any way from being on github, so I'll probably self-host them in the future.
 
-Microsoft is evil.
+I will not be going through any extra steps or jumping through any hoops to log in to my account just because some evil creep working for microsoft claims it's a good thing.
+
+This is W R "Ron" Spain, Jr.
