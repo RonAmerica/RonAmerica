@@ -15,4 +15,7 @@ I will not be going through any extra steps or jumping through any hoops to log 
 
 Once again, Microsoft is evil, and these projects seem to benefit in no way from being on GitHub.
 
+I have deleted my projects from GitHub. Enjoy jumping through hoops for Microsoft, folks. I say f*** 'em.
+
+
 This is W R "Ron" Spain, Jr.
